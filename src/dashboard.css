@@ -1,0 +1,26 @@
+.button1{
+    
+    color: rgb(226, 226, 235);
+    margin-left: 260px;
+    border:transparent;
+    padding: 50px;
+    display: block;
+    background-color: rgb(87, 5, 87);
+}
+
+#btn3{
+    padding: 10px;
+    background-color: pink;
+    border: transparent;
+}
+
+#dash{
+    margin-bottom: 350px;
+   
+}
+.btn4{
+    padding: 10px;
+    background-color: pink;
+    border: transparent;
+    position: relative;
+}

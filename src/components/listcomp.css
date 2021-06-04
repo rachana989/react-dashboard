@@ -1,0 +1,29 @@
+.listdiv{
+    background: #fff;
+    float: right;
+    border-radius: 5px;
+    padding: 40px;
+    margin: 10px;
+    width: 47%;
+    color: #333;
+    flex-basis: width;
+    background-color: rgb(227, 150, 247);
+    list-style: none;
+}
+.limark{
+    font-weight: bold;
+}
+.li1{
+    list-style: none;
+    float: inline-start;
+}
+#liname{
+    font-size: 30px;
+    color: rgb(213, 192, 214);
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+    padding: 5px;
+    background-color: rgb(85, 12, 51);
+   
+}
